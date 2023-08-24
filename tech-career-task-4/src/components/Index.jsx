@@ -54,7 +54,6 @@ function Index() {
 
         <nav>
 
-          <NavLink to="/">Home Page</NavLink>
           <NavLink to="/addcustomer">Add Customer</NavLink>
         </nav>
           <header>

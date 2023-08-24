@@ -40,8 +40,8 @@ setNewCustomer({...newCustomer , [e.target.name] : e.target.value})
   return (
     <>
       <nav>
-        <NavLink to="/addcustomer">Add Customer</NavLink>
-        <NavLink to="/">Add Customer</NavLink>
+        <NavLink to="/">Home</NavLink>
+     
       </nav>
 
       <form onSubmit={handleSubmit}>
